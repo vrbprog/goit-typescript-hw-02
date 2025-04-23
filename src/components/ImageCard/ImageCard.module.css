@@ -1,0 +1,11 @@
+.card {
+    width: 240px;
+    height: 200px;
+    object-fit: cover;
+    transition: all 200ms ease-in-out;
+}
+
+.card:hover {
+    scale: 1.02;
+    cursor: pointer;
+}
