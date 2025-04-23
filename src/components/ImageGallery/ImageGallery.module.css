@@ -1,0 +1,14 @@
+.imageGallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin-block: 16px;
+    gap: 16px;
+    max-width: 1040px;
+    margin-inline: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
