@@ -1,0 +1,23 @@
+/* .content {
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.1);
+    z-index: 999;
+} */
+
+.imageModal {
+    width: 800px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.description {
+    margin-top: 6px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
